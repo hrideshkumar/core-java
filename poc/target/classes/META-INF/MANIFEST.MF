@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: Hridesh.Kumar
+Class-Path: lib/jackson-databind-2.7.4.jar lib/jackson-annotations-2.7
+ .0.jar lib/jackson-core-2.7.4.jar
+Build-Jdk: 1.8.0_91
+Created-By: Maven Integration for Eclipse
+Main-Class: com.poc.App
+
